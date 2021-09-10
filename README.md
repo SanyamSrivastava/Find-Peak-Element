@@ -1,5 +1,5 @@
 # Find-Peak-Element<br>
-#Canvas of Problem Solving<br>
+#Canvas of Problem Solving<br><br>
 Leetcode problem 162<br>
 The Problem Statement - <br>
 **A peak element is an element that is strictly greater than its neighbors.<br>
